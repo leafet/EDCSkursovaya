@@ -62,6 +62,8 @@ namespace KursavayaECS.Migrations
 
                     b.HasKey("ID");
 
+                    b.HasIndex("Email", "ID");
+
                     b.ToTable("Users");
                 });
 

@@ -1,7 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Microsoft.EntityFrameworkCore;
 
 namespace KursavayaECS.Data
 {
+    [Index(nameof(Email), nameof(ID))]
     public class AppUser
     {
         public required Guid ID { get; set; }

@@ -65,7 +65,6 @@ namespace KursavayaECS.Controllers
                 {
                     Console.WriteLine(error.Exception);
                     Console.WriteLine(error.ErrorMessage);
-
                 }
             }
 

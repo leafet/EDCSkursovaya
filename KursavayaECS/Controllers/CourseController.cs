@@ -165,7 +165,8 @@ namespace KursavayaECS.Controllers
                     ID = Guid.NewGuid(),
                     CourseName = courseModel.CourseName,
                     CourseDescription = courseModel.CourseDescription,
-                    CoursePrice = courseModel.CoursePrice
+                    CoursePrice = courseModel.CoursePrice,
+                    Teacher = null
                 };
 
                 await ctx.Courses.AddAsync(course);

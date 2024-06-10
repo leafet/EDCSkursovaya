@@ -44,7 +44,7 @@
             {
                 <a class="btn btn-danger btn-sm" style="margin: 0.2em" asp-action="UnSubscribeFromCourse" asp-route-id="@course.ID">Отписаться</a>
             }
-            @if (!IsSubscribed(course.ID))
+            @if (!IsSubscribed(course.ID) && course.Teacher != null)
             {
                 <a class="btn btn-success btn-sm" style="margin: 0.2em" asp-action="SubscribeToCourse" asp-route-id="@course.ID">Подписаться</a>
             }
