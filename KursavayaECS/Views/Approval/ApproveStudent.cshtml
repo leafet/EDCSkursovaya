@@ -1,0 +1,19 @@
+﻿@using KursavayaECS.Models
+@using KursavayaECS.Data
+@using KursavayaECS.AppServices
+@using Microsoft.EntityFrameworkCore;
+@model StudentApproveModel
+
+<div class="table-responsive">
+    <form asp-action="ApproveStudent">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group" style="margin-bottom:10px">
+            <label asp-for="PrefSpec" class="control-label"></label>
+            <input asp-for="PrefSpec" class="form-control" />
+            <span asp-validation-for="PrefSpec" class="text-danger"></span>
+        </div>
+        <div class="form-group" style="margin-bottom:10px">
+            <button type="submit" class="btn btn-primary">Подтвердить</button>
+        </div>
+    </form>
+</div>

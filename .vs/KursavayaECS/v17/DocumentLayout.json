@@ -1,0 +1,755 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\appservices\\autenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\appservices\\autenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\data\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\data\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\data\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\data\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\data\\courseclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\data\\courseclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\course\\indexteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\course\\indexteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\course\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\course\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\course\\indexadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\course\\indexadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\auth\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\auth\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\approval\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\approval\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\approval\\approveteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\approval\\approveteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\approval\\approvestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\approval\\approvestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\models\\teacherapprovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\models\\teacherapprovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\models\\studentapprovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\models\\studentapprovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\models\\indexapprovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\models\\indexapprovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\auth\\showregistred.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\auth\\showregistred.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\migrations\\20240607124913_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\migrations\\20240607124913_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\kursavayaecs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\kursavayaecs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|c:\\users\\zakha\\source\\repos\\kursavayaecs\\kursavayaecs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5022BFFC-8941-4F1A-B112-14EEAD459877}|KursavayaECS\\KursavayaECS.csproj|solutionrelative:kursavayaecs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IndexTeacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Course\\IndexTeacher.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Course\\IndexTeacher.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Course\\IndexTeacher.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Course\\IndexTeacher.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAABBwEAAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T05:27:03.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Models\\CourseViewModel.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\CourseViewModel.cs",
+              "RelativeToolTip": "KursavayaECS\\Models\\CourseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:53:55.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAJMSAAAAAAAAAAAgwMcSAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-08T03:09:43.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApproveTeacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Approval\\ApproveTeacher.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Approval\\ApproveTeacher.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Approval\\ApproveTeacher.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Approval\\ApproveTeacher.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T02:40:21.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApproveStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Approval\\ApproveStudent.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Approval\\ApproveStudent.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Approval\\ApproveStudent.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Approval\\ApproveStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T15:57:43.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "KursavayaECS\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:41:25.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Approval\\Index.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Approval\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Approval\\Index.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Approval\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T13:37:11.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240607124913_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Migrations\\20240607124913_Initial.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Migrations\\20240607124913_Initial.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Migrations\\20240607124913_Initial.cs",
+              "RelativeToolTip": "KursavayaECS\\Migrations\\20240607124913_Initial.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:49:15.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeacherApproveModel.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\TeacherApproveModel.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Models\\TeacherApproveModel.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\TeacherApproveModel.cs",
+              "RelativeToolTip": "KursavayaECS\\Models\\TeacherApproveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:28:17.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentApproveModel.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\StudentApproveModel.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Models\\StudentApproveModel.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\StudentApproveModel.cs",
+              "RelativeToolTip": "KursavayaECS\\Models\\StudentApproveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:28:03.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApprovalController.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Controllers\\ApprovalController.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Controllers\\ApprovalController.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Controllers\\ApprovalController.cs",
+              "RelativeToolTip": "KursavayaECS\\Controllers\\ApprovalController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:12:53.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KursavayaECS\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KursavayaECS\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T03:45:23.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "KursavayaECS",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\KursavayaECS.csproj",
+              "RelativeDocumentMoniker": "KursavayaECS\\KursavayaECS.csproj",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\KursavayaECS.csproj",
+              "RelativeToolTip": "KursavayaECS\\KursavayaECS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T03:18:31.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutenticationServices.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\AppServices\\AutenticationServices.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\AppServices\\AutenticationServices.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\AppServices\\AutenticationServices.cs",
+              "RelativeToolTip": "KursavayaECS\\AppServices\\AutenticationServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:22:10.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Course\\Insert.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Course\\Insert.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Course\\Insert.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Course\\Insert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T14:52:51.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IndexAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Course\\IndexAdmin.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Course\\IndexAdmin.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Course\\IndexAdmin.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Course\\IndexAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T18:06:13.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseClaim.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\CourseClaim.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Data\\CourseClaim.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\CourseClaim.cs",
+              "RelativeToolTip": "KursavayaECS\\Data\\CourseClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:47:32.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\Course.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Data\\Course.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\Course.cs",
+              "RelativeToolTip": "KursavayaECS\\Data\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:46:08.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:36:41.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:36:38.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:36:13.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KursavayaECS\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:30:42.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\AppUser.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Data\\AppUser.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\AppUser.cs",
+              "RelativeToolTip": "KursavayaECS\\Data\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:30:41.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KursavayaECS\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:04:22.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T04:03:58.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T04:03:15.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Auth\\Logout.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Auth\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Auth\\Logout.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Auth\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T04:00:02.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "KursavayaECS\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwBgAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:47:39.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShowRegistred.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Auth\\ShowRegistred.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Auth\\ShowRegistred.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Auth\\ShowRegistred.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Auth\\ShowRegistred.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T03:15:23.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KursavayaECS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T01:54:29.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:41:39.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:41:26.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAABRwEUAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:37:27.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:37:15.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\appsettings.json",
+              "RelativeDocumentMoniker": "KursavayaECS\\appsettings.json",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\appsettings.json",
+              "RelativeToolTip": "KursavayaECS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T01:34:52.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Program.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Program.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Program.cs",
+              "RelativeToolTip": "KursavayaECS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T01:34:51.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "bbf6b28b-5664-4a38-a5db-2447368d0f36",
+        "Display": 1,
+        "X": -215,
+        "Y": 359,
+        "Width": 2221,
+        "Height": 1128,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\Teacher.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Data\\Teacher.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\Teacher.cs",
+              "RelativeToolTip": "KursavayaECS\\Data\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:12:40.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b49e0733-b0b7-4e5f-9a06-cdb1772f3d5e",
+        "Display": 1,
+        "X": 367,
+        "Y": 347,
+        "Width": 2221,
+        "Height": 1128,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "KursavayaECS\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "KursavayaECS\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T18:01:22.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "KursavayaECS\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAkwIoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:32:02.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\Student.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Data\\Student.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Data\\Student.cs",
+              "RelativeToolTip": "KursavayaECS\\Data\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:15:03.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "KursavayaECS\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAIwHIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:00:17.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IndexApproveModel.cs",
+              "DocumentMoniker": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\IndexApproveModel.cs",
+              "RelativeDocumentMoniker": "KursavayaECS\\Models\\IndexApproveModel.cs",
+              "ToolTip": "C:\\Users\\zakha\\source\\repos\\KursavayaECS\\KursavayaECS\\Models\\IndexApproveModel.cs",
+              "RelativeToolTip": "KursavayaECS\\Models\\IndexApproveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:39:22.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

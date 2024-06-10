@@ -1,0 +1,54 @@
+﻿@using KursavayaECS.Models
+@using KursavayaECS.Data
+@using KursavayaECS.AppServices
+@using Microsoft.EntityFrameworkCore;
+@inject IAuthenticationServices authS
+@inject AppDbContext ctx
+@model List<CourseViewModel>
+
+@{
+    var CourseClaims = ctx.CoursesClaims.Include(c => c.Student).Include(c => c.Student.StudentUser).Include(c => c.Course).ToList();
+
+    bool IsSubscribed(Guid currenCourseId)
+    {
+        foreach(var claim in CourseClaims)
+        {
+            if (claim.Course.ID == currenCourseId && claim.Student.StudentUser.ID == authS.GetUserIdFromToken(Context))
+            {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}
+
+@foreach (var course in Model)
+{
+    <div class="card mx-auto m-4" style="width: 50rem;">
+        <div class="card-body ">
+            <h5 class="card-title">@course.CourseName, цена - @course.CoursePrice</h5>
+            <p class="card-text">@course.CourseDescription</p>
+
+            @if(course.Teacher != null)
+            {
+                <p class="card-text">Преподаватель - @course.Teacher.TeacherUser.LastName @course.Teacher.TeacherUser.FirstName.</p>
+            }
+            else
+            {
+                <p class="card-text">Преподаватель не назначен.</p>
+            }
+            
+
+            @if (IsSubscribed(course.ID))
+            {
+                <a class="btn btn-danger btn-sm" style="margin: 0.2em" asp-action="UnSubscribeFromCourse" asp-route-id="@course.ID">Отписаться</a>
+            }
+            @if (!IsSubscribed(course.ID))
+            {
+                <a class="btn btn-success btn-sm" style="margin: 0.2em" asp-action="SubscribeToCourse" asp-route-id="@course.ID">Подписаться</a>
+            }
+            
+        </div>
+    </div>
+}

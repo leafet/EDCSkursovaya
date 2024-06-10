@@ -1,0 +1,36 @@
+﻿@using KursavayaECS.Models
+@model List<CourseViewModel>
+
+<h1>Курсы</h1>
+<a class="btn btn-primary" asp-controller="Course" asp-action="Insert" style="margin-top:5px; margin-bottom:5px;">Добавить курс</a>
+
+<div class="table-responsive">
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Название</th>
+                <th>Описание</th>
+                <th>Цена (рублей)</th>
+                <th>Преподаватель</th>
+                <th>Действия</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var course in Model)
+            {
+                <tr>
+                    <td>@course.ID/td>
+                    <td>@course.CourseName</td>
+                    <td>@course.CourseDescription</td>
+                    <td>@course.CoursePrice</td>
+                    <td>@{string text = course.Teacher == null ? "Преподаватель не назначен" : course.Teacher.ToString();} @text</td>
+                    <td>
+                        <a class="btn btn-danger btn-sm" style="margin: 0.2em" asp-action="Delete" asp-route-id="@course.ID">Удалить курс</a>
+                        <a class="btn btn-info btn-sm" style="margin: 0.2em" asp-action="Alter" asp-route-id="@course.ID">Изменить курс</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

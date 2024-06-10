@@ -1,0 +1,77 @@
+﻿@using KursavayaECS.Models
+@using KursavayaECS.Data
+@using KursavayaECS.AppServices
+@using Microsoft.EntityFrameworkCore;
+@inject IAuthenticationServices authS
+@inject AppDbContext ctx
+@model List<CourseViewModel>
+
+@{
+    bool hasClaimedCourse = false;
+
+    foreach(var course in Model)
+    {
+        if(course.Teacher != null)
+        {
+            if (course.Teacher.ID == authS.GetUserIdFromToken(Context))
+                hasClaimedCourse = true;
+        }
+    }
+
+    var courses = ctx.Courses.Include(c => c.Teacher).Include(c => c.Teacher.TeacherUser).ToList();
+
+    bool IsLeaded(CourseViewModel course)
+    {
+        if (course.Teacher == null)
+            return false;
+        else
+            return true;
+    }
+
+    bool IsLeadedByCurrentUser(CourseViewModel course)
+    {
+        if (course.Teacher == null)
+            return false;
+
+        if (course.Teacher.TeacherUser.ID == authS.GetUserIdFromToken(Context))
+            return true;
+
+        return false;
+    }
+}
+
+@foreach (var course in Model)
+{
+    <div class="card mx-auto m-4" style="width: 50rem;">
+        <div class="card-body ">
+            <h5 class="card-title">@course.CourseName, цена - @course.CoursePrice</h5>
+            <p class="card-text">@course.CourseDescription @course.ID</p>
+
+            @if(course.Teacher != null)
+            {
+                <p class="card-text">Преподаватель - @course.Teacher.TeacherUser.LastName @course.Teacher.TeacherUser.FirstName.</p>
+            }
+            else
+            {
+                <p class="card-text">Преподаватель не назначен.</p>
+            }
+
+            
+
+            @if (IsLeaded(course) && !IsLeadedByCurrentUser(course))
+            {
+                <a class="btn btn-secondary btn-sm" style="margin: 0.2em">Курс занят</a>
+            }
+            @if (!IsLeaded(course) && !IsLeadedByCurrentUser(course) && hasClaimedCourse == false)
+            {
+                <a class="btn btn-success btn-sm" style="margin: 0.2em" asp-action="LeadCourse" asp-route-id="@course.ID">Вести</a>
+            }
+
+            @if (IsLeaded(course) && IsLeadedByCurrentUser(course))
+            {
+                <a class="btn btn-danger btn-sm" style="margin: 0.2em" asp-action="UnLeadCourse" asp-route-id="@course.ID">Перестать вести</a>
+            }
+            
+        </div>
+    </div>
+}

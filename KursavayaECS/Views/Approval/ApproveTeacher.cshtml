@@ -1,0 +1,29 @@
+﻿@using KursavayaECS.Models
+@using KursavayaECS.Data
+@using KursavayaECS.AppServices
+@using Microsoft.EntityFrameworkCore;
+@model TeacherApproveModel
+
+<div class="table-responsive">
+    <form asp-action="ApproveTeacher">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group" style="margin-bottom:10px">
+            <label asp-for="Specialization" class="control-label"></label>
+            <input asp-for="Specialization" class="form-control" />
+            <span asp-validation-for="Specialization" class="text-danger"></span>
+        </div>
+        <div class="form-group" style="margin-bottom:10px">
+            <label asp-for="Category" class="control-label"></label>
+            <input asp-for="Category" class="form-control" />
+            <span asp-validation-for="Category" class="text-danger"></span>
+        </div>
+        <div class="form-group" style="margin-bottom:10px">
+            <label asp-for="ExpirenceYears" class="control-label"></label>
+            <input asp-for="ExpirenceYears" class="form-control" />
+            <span asp-validation-for="ExpirenceYears" class="text-danger"></span>
+        </div>
+        <div class="form-group" style="margin-bottom:10px">
+            <button type="submit" class="btn btn-primary">Подтвердить</button>
+        </div>
+    </form>
+</div>
